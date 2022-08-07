@@ -14,6 +14,7 @@ Note, this is only suitable for a Windows environment.
 
 To download the portable software package, please use the following link:
 https://drive.google.com/drive/folders/1ku1-ip5-uXJQ4fKTY7R6P7f6i1WeHLwZ?usp=sharing
+(DOWNLOAD THE TOP LEVEL TDEE-TOOL FOLDER)
 
 Simply download the whole folder to wherever you want to keep it on your computer.
 Within the first folder is a shortcut to start the program. Feel free to move this to wherever is easest for you to use.
