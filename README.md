@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1ku1-ip5-uXJQ4fKTY7R6P7f6i1WeHLwZ?usp=sha
 Simply download the whole folder to wherever you want to keep it on your computer.
 Within the first folder is a shortcut to start the program. Feel free to move this to wherever is easest for you to use.
 
-------------------------
+
 ***GETTING STARTED***
 
 This project was made in a Windows OS.
@@ -32,5 +32,11 @@ Please use this setup for best results.
 Modules needed for this project:
 
 	PyQt5
-  
-  sys
+	
+	sys
+
+------------------------
+
+Here's an example of the GUI.
+
+![tdee-gui-picture](https://user-images.githubusercontent.com/58944210/183313685-22097f89-b10f-4bbe-8b6f-7051ca65837d.PNG)
